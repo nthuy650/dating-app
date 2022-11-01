@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8GYqSfMlQQrtdDjH7miPCcs2+Ip2wW516PcSykVaaVpvK7XAsMOWPk2IFg5JrCoLsjaxrlmdY8H+v9fjXNhOaw==",
+  "dgSpecHash": "07z/UPlDw7sZPuF580q+Dmx1epfVSdAhvMj+KDDRHS7dI7iLH+Qh8lc7qVB30kfmiCe/SfEH8yFBEBlFRUF2Ng==",
   "success": true,
   "projectFilePath": "C:\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nthuy\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\nthuy\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.9\\microsoft.aspnetcore.authentication.jwtbearer.6.0.9.nupkg.sha512",
     "C:\\Users\\nthuy\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\nthuy\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0-rc.1.22426.7\\microsoft.data.sqlite.core.7.0.0-rc.1.22426.7.nupkg.sha512",
     "C:\\Users\\nthuy\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-rc.1.22426.7\\microsoft.entityframeworkcore.7.0.0-rc.1.22426.7.nupkg.sha512",
@@ -27,6 +28,8 @@
     "C:\\Users\\nthuy\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.24.0\\microsoft.identitymodel.abstractions.6.24.0.nupkg.sha512",
     "C:\\Users\\nthuy\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.24.0\\microsoft.identitymodel.jsonwebtokens.6.24.0.nupkg.sha512",
     "C:\\Users\\nthuy\\.nuget\\packages\\microsoft.identitymodel.logging\\6.24.0\\microsoft.identitymodel.logging.6.24.0.nupkg.sha512",
+    "C:\\Users\\nthuy\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\nthuy\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
     "C:\\Users\\nthuy\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.24.0\\microsoft.identitymodel.tokens.6.24.0.nupkg.sha512",
     "C:\\Users\\nthuy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\nthuy\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
